@@ -48,8 +48,8 @@ File updated successfully
 You need `gcc` installed.
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/devunuriabhi016/MP3-Tag-Reader.git
+cd MP3-Tag-Reader
 gcc main.c view.c edit.c -o a.out
 ./a.out -v song.mp3
 ```
